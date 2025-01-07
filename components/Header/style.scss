@@ -1,0 +1,40 @@
+.button-anunciar-meu-negocio {
+  font-size: 12px !important;
+  height: 40px;
+  width: 150px
+}
+
+@media (max-width: 860px) {
+  .container {
+    padding: 0;
+  }
+
+  .shopping-cart {
+    width: 0;
+    height: 0;
+  }
+
+  .headerFixed {
+    transition: all 0.9s ease;
+    position: fixed;
+    box-shadow: 2px 6px 4px #ccc;
+    background: #fff;
+    width: 100%;
+    left: 0;
+  }
+
+  .headerRelative {
+    transition: all 0.9s ease;
+    position: relative;
+    background: #fff;
+    width: 100%;
+  }
+
+  .relative-padding-transition {
+    padding-bottom: 56px;
+  }
+
+  .relative-padding-transition-banner {
+    padding-bottom: 111px;
+  }
+}

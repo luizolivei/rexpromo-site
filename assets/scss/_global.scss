@@ -1,0 +1,429 @@
+@font-face {
+  font-family: "Arial";
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a {
+  /*a mudanca do boostrap fez todas as tags A ficarem com underline*/
+  text-decoration: none;
+}
+
+.btn-success {
+  background-color: #11af00 !important;
+  border-color: #12a802 !important;
+  --bs-btn-bg: #11af00 !important;
+  --bs-btn-border-color: #11af00 !important;
+  --bs-btn-hover-bg: #13a203 !important;
+  --bs-btn-hover-border-color: #13a203 !important;
+  --bs-btn-active-bg: #13a203 !important;
+  --bs-btn-active-border-color: #149b05 !important;
+  --bs-btn-disabled-bg: #11af00 !important;
+  --bs-btn-disabled-border-color: #11af00 !important;
+}
+
+.guia-icon-map-marker {
+  color: #febd47;
+}
+
+.guia-icon-phone-in-talk-outline {
+  color: #0a0805;
+}
+
+.analytics-link {
+  color: #3aa1ff;
+}
+
+.analytics-link:hover {
+  color: #3aa1ff;
+}
+
+.dimencoes-modal-orcar-80 {
+  width: 60% !important;
+  max-width: 1220px;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.whats-white {
+  color: #ffffff;
+}
+
+.guia-icon-map-marker-black {
+  color: #3d464d;
+}
+
+.guia-icon-map-marker-white {
+  color: #ffffff;
+}
+
+.guia-icon-check-bold {
+  color: #11af00;
+}
+
+.btn-find-products {
+  background: #feb633;
+  width: 80%;
+  height: 44px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: bold;
+  place-items: center;
+}
+
+.cor-diferencial {
+  color: #414042 !important;
+}
+
+@media (max-width: 600px) {
+  .card-resultados,
+  .card-resultados-others {
+    border-bottom: 1px solid #ebebeb;
+    border-right: none !important;
+    border-top: none !important;
+  }
+
+  .card-resultados {
+    margin-left: 15px;
+  }
+
+  .search-message {
+    display: flex !important;
+    flex-direction: column;
+  }
+
+  .search-message > p {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.btn-defaul-heigth-gf {
+  height: 54px;
+}
+
+.guia-icon-instagram-white {
+  color: #ffffff;
+}
+
+.bg-tracar-rota {
+  background: #3aa1ff;
+}
+
+.guia-icon-twitter-white {
+  color: #ffffff;
+}
+
+.guia-icon-facebook-white {
+  color: #ffffff;
+}
+
+.coluna-clever {
+  height: 255px;
+}
+
+.color-twitter {
+  background: #1da1f2;
+  color: white;
+}
+
+.color-twitter:hover {
+  background: #1da1d5;
+  color: white;
+}
+
+.color-facebook {
+  background: #4267b2;
+  color: white;
+}
+
+.color-facebook:hover {
+  background: #365899;
+  color: white;
+}
+
+.color-google {
+  background: #ffffff;
+  color: #2d3436;
+  height: 48px;
+}
+
+.button-hotsite {
+  background: #414042;
+  height: 54px;
+  width: 385px;
+}
+
+.-mt-10 {
+  margin-top: -10px;
+}
+
+.color-avaliation {
+  color: #565656;
+}
+
+.fs-16 {
+  font-size: 16px;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.fs-18 {
+  font-size: 18px;
+}
+
+.text-underlined {
+  text-decoration: underline;
+}
+
+.card-no-border {
+  border-color: transparent !important;
+}
+
+.text-guia-default {
+  color: #414042;
+}
+
+.vgs__gallery__container {
+  margin-bottom: 75px;
+}
+
+.btn-close::before {
+  content: "\F0156" !important;
+  font: normal normal normal 24px/1 "Material Design Icons";
+}
+
+.btn-close {
+  background: transparent;
+  border: none;
+}
+
+@media (min-width: 1024px) {
+  .vgs__container {
+    top: 150px;
+  }
+}
+
+@media (max-width: 860px) {
+  .fs-16 {
+    font-size: 1rem !important;
+  }
+
+  .coluna-clever {
+    width: 305px !important;
+    height: 255px !important;
+  }
+
+  #category.dropdown-toggle::after {
+    position: absolute !important;
+    left: 15rem !important;
+    top: 1rem !important;
+  }
+
+  #sidebar-left > div > div.px-3.py-2 > div > nav > div > ul > li > div > ul {
+    left: 1.5rem;
+    width: 15rem;
+  }
+}
+
+.share {
+  width: 3rem;
+  height: 3rem;
+}
+
+.btn-gf-default-hotsite {
+  background: #414042 !important;
+  height: 54px;
+}
+
+.tituloCard {
+  font-size: 14px;
+  color: #414042;
+  font-weight: 400;
+  line-height: 16.41px;
+}
+
+.subtituloCard {
+  font-size: 12px;
+  color: #888787;
+}
+
+.whats-ten-bussines {
+  background: #11af00;
+  color: #ffffff;
+  height: 44px;
+  border: none;
+}
+
+.whats-ten-bussines:hover {
+  background: #11af00;
+}
+
+.whats-to-bussines {
+  background: transparent;
+  color: #11af00;
+  border: 1px solid #11af00;
+  height: 44px;
+}
+
+.whats-to-bussines:hover {
+  background: transparent;
+  color: #11af00;
+  border: 1px solid #11af00;
+}
+
+.whats-color-default {
+  color: #11af00;
+}
+
+.btn-gf-default-hotsite {
+  background: #414042 !important;
+  height: 54px;
+}
+
+.b-rating-icon {
+  color: #c4c4c4 !important;
+}
+
+.button-default {
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.tituloCard {
+  font-size: 14px;
+  color: #414042;
+  font-weight: 400;
+  line-height: 16.41px;
+}
+
+.subtituloCard {
+  font-size: 12px;
+  color: #888787;
+}
+
+.text-button-links {
+  text-decoration: underline !important;
+  color: black;
+}
+
+.whats-background-default {
+  background: #11af00;
+  height: 40px;
+  width: 200px;
+}
+
+.btn-encontre-default {
+  height: 40px;
+  width: 200px;
+}
+
+.text-button-links {
+  text-decoration: underline !important;
+  color: black;
+}
+
+.btn-camera-default {
+  background: #e5e5e5;
+  width: 85px;
+  height: 85px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.camera-center {
+  top: 27px;
+  left: 47px;
+}
+
+.img-coment {
+  border-radius: 4px;
+  vertical-align: middle;
+  box-sizing: border-box;
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+  font-size: 14px !important;
+  color: #0a0805;
+}
+
+.phone-mdi::before {
+  font-family: "guia-icons";
+  content: "\F03F2";
+  display: block;
+  font-size: 1.2rem;
+}
+
+.whats-mdi::before {
+  font-family: "guia-icons";
+  content: "\F05A3";
+  display: block;
+  font-size: 1.2rem;
+}
+
+.locate-mdi::before {
+  font-family: "guia-icons";
+  content: "\F034E";
+  display: block;
+  font-size: 1.2rem;
+}
+
+.share-mdi::before {
+  font-family: "guia-icons";
+  content: "\F0497";
+  display: block;
+  font-size: 1.2rem;
+}
+
+.ads-height {
+  background-color: #F5F5F5;
+  height: 280px;
+
+  @media (max-width: 966px) {
+    height: 370px;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p,
+span,
+small,
+h1,
+h2,
+h3,
+h4,
+h5,
+label,
+i,
+strong,
+b {
+  color: #3d464d;
+}
+
+body {
+  background: #ffffff;
+  color: whitesmoke;
+  font-family: Arial, "Helvetica Neue", sans-serif;
+}
+
+.content {
+  padding: 0;
+}
+
+@media (max-width: 600px) {
+  .container-layout-default {
+    width: 100%;
+    overflow: hidden;
+  }
+}
