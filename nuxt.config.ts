@@ -7,7 +7,7 @@ export default defineNuxtConfig({
 
     app: {
         head: {
-            title: "sabore",
+            title: "RexPromo",
             htmlAttrs: {
                 lang: "pt-BR"
             },
@@ -27,9 +27,9 @@ export default defineNuxtConfig({
             ],
 
             link: [
-                {rel: "icon", type: "image/x-icon", href: "/favicon.ico"},
-                {rel: "preload", as: "style", href: "/css/guia-icons.css"},
-                {rel: "stylesheet", href: "/css/guia-icons.css"},
+                //{rel: "icon", type: "image/x-icon", href: "/favicon.ico"},
+               // {rel: "preload", as: "style", href: "/css/guia-icons.css"},
+                //{rel: "stylesheet", href: "/css/guia-icons.css"},
             ]
         }
     },
