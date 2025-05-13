@@ -1,1 +1,0 @@
-//migrar as manipulacoes do firestore para aqui
