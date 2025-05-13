@@ -4,15 +4,15 @@ import Footer from '@/components/Footer.vue'
 
 // SEO otimizado
 useHead({
-  title: 'PromoRex - O melhor grupo de promoções para economizar',
+  title: 'RexPromo - O melhor grupo de promoções para economizar',
   meta: [
-    { name: 'description', content: 'Entre para o PromoRex, o melhor grupo de promoções no WhatsApp e Telegram. Ofertas em tecnologia, móveis, celulares, consoles e mais!' },
+    { name: 'description', content: 'Entre para o RexPromo, o melhor grupo de promoções no WhatsApp e Telegram. Ofertas em tecnologia, móveis, celulares, consoles e mais!' },
     { name: 'keywords', content: 'grupo de promoções, ofertas, descontos, whatsapp, telegram, tecnologia, móveis, celulares, consoles' },
-    { property: 'og:title', content: 'PromoRex - Grupo de Promoções' },
+    { property: 'og:title', content: 'RexPromo - Grupo de Promoções' },
     { property: 'og:description', content: 'Entre no melhor grupo de promoções e receba as melhores ofertas em primeira mão!' },
     { property: 'og:type', content: 'website' },
-    { property: 'og:url', content: 'https://seusite.com' },
-    { property: 'og:image', content: 'https://seusite.com/capa.jpg' },
+    { property: 'og:url', content: 'https://rexpromo.com' },
+    { property: 'og:image', content: 'https://rexpromo.com/rexpromo.png' },
   ]
 })
 </script>
@@ -24,7 +24,7 @@ useHead({
     <main class="flex-grow container mx-auto px-4 py-16 pt-5">
       <div class="text-center">
         <h1 class="text-3xl font-extrabold text-green-700 mb-4">
-          Bem-vindo ao PromoRex
+          Bem-vindo ao RexPromo
         </h1>
         <h2 class="text-xl font-medium mb-6">
           O <strong>melhor grupo de promoções</strong> para economizar de verdade 💸

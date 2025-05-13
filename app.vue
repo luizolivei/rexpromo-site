@@ -4,7 +4,7 @@ useHead({
     {
       rel: 'icon',
       type: 'image/png',
-      href: 'assets/img/logo-no-bg.png'
+      href: 'public/favicon.ico'
     }
   ]
 })
