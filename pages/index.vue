@@ -54,8 +54,8 @@ useHead({
         <h3 class="text-2xl font-semibold mb-4">Categorias disponíveis:</h3>
         <ul class="space-y-2 text-gray-700 text-base leading-relaxed">
           <li>📦 <strong>Geral:</strong> Promoções variadas de todas as categorias.</li>
-          <li>🖥️ <strong>Hardware:</strong> Peças, PCs, notebooks e periféricos.</li>
           <li>🔥 <strong>Promoções Épicas:</strong> Descontos absurdos que somem rápido!</li>
+          <li>🖥️ <strong>Hardware:</strong> Peças, PCs, notebooks e periféricos.</li>
           <li>🪑 <strong>Móveis:</strong> Cadeiras gamers, escrivaninhas e afins.</li>
           <li>🎮 <strong>Consoles:</strong> PS5, Xbox, jogos e acessórios.</li>
           <li>📱 <strong>Celulares e Tablets:</strong> Smartphones, iPads e muito mais.</li>
