@@ -88,6 +88,7 @@ useHead({
           <li>📦 <strong>Geral:</strong> Promoções variadas de todas as categorias.</li>
           <li>🔥 <strong>Promoções Épicas:</strong> Descontos absurdos que somem rápido!</li>
           <li>🖥️ <strong>Hardware:</strong> Peças, PCs, notebooks e periféricos.</li>
+          <li>🖥️ <strong>Eletrodomésticos:</strong> Televisões, geladeiras, fornos, fogões, ar condicionados..</li>
           <li>🎮 <strong>Consoles:</strong> PS5, Xbox, jogos e acessórios.</li>
           <li>📱 <strong>Celulares e Tablets:</strong> Smartphones, iPads e muito mais.</li>
         </ul>
