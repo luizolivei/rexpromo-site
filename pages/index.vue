@@ -49,14 +49,6 @@ useHead({
           Hardware
         </a>
         <a
-            href="https://chat.whatsapp.com/BruGdLcui2z6YeBhki6og9"
-            target="_blank"
-            class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
-        >
-          <Icon icon="logos:whatsapp-icon" width="23" />
-          Promoções Épicas
-        </a>
-        <a
             href="https://chat.whatsapp.com/G1yCSVkkXKK9v0oPZAa0Eq"
             target="_blank"
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
@@ -79,6 +71,14 @@ useHead({
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
           Consoles
+        </a>
+        <a
+            href="https://chat.whatsapp.com/BruGdLcui2z6YeBhki6og9"
+            target="_blank"
+            class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
+        >
+          <Icon icon="logos:whatsapp-icon" width="23" />
+          Promoções Épicas (bugs e promoções especiais)
         </a>
         <a
             href="https://chat.whatsapp.com/Kc009AGCqj73jG2dRG1AWT"
