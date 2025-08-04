@@ -38,15 +38,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Grupo Geral (recomendado)
-        </a>
-        <a
-            href="https://chat.whatsapp.com/BruGdLcui2z6YeBhki6og9"
-            target="_blank"
-            class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
-        >
-          <Icon icon="logos:whatsapp-icon" width="23" />
-          Promoções Épicas
+          Promos variadas (sem hardware)
         </a>
         <a
             href="https://chat.whatsapp.com/KEPtbdrG7Ju9rsCq8clCHL"
@@ -55,6 +47,14 @@ useHead({
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
           Hardware
+        </a>
+        <a
+            href="https://chat.whatsapp.com/BruGdLcui2z6YeBhki6og9"
+            target="_blank"
+            class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
+        >
+          <Icon icon="logos:whatsapp-icon" width="23" />
+          Promoções Épicas
         </a>
         <a
             href="https://chat.whatsapp.com/G1yCSVkkXKK9v0oPZAa0Eq"
@@ -79,6 +79,14 @@ useHead({
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
           Consoles
+        </a>
+        <a
+            href="https://chat.whatsapp.com/Kc009AGCqj73jG2dRG1AWT"
+            target="_blank"
+            class="flex items-center justify-center gap-2 bg-blue-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
+        >
+          <Icon icon="logos:telegram" width="23" />
+          Telegram
         </a>
       </div>
 
