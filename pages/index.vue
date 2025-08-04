@@ -93,12 +93,12 @@ useHead({
       <section class="bg-white shadow-md rounded-lg p-6 max-w-2xl mx-auto mb-10 text-left">
         <h3 class="text-2xl font-semibold mb-4">Categorias disponíveis:</h3>
         <ul class="space-y-2 text-gray-700 text-base leading-relaxed">
-          <li>📦 <strong>Geral:</strong> Promoções variadas de todas as categorias.</li>
-          <li>🔥 <strong>Promoções Épicas:</strong> Descontos absurdos que somem rápido!</li>
+          <li>📦 <strong>Variados:</strong> Promoções variadas de diversas categorias (menos hardware).</li>
           <li>🖥️ <strong>Hardware:</strong> Peças, PCs, notebooks e periféricos.</li>
           <li>🖥️ <strong>Eletrodomésticos:</strong> Televisões, geladeiras, fornos, fogões, ar condicionados..</li>
           <li>🎮 <strong>Consoles:</strong> PS5, Xbox, jogos e acessórios.</li>
           <li>📱 <strong>Celulares e Tablets:</strong> Smartphones, iPads e muito mais.</li>
+          <li>🔥 <strong>Promoções Épicas:</strong> Descontos absurdos que somem rápido!</li>
         </ul>
       </section>
     </main>
