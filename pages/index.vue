@@ -81,7 +81,7 @@ useHead({
           Promoções Épicas (bugs e promoções especiais)
         </a>
         <a
-            href="https://chat.whatsapp.com/Kc009AGCqj73jG2dRG1AWT"
+            href="https://t.me/rexpromocoes"
             target="_blank"
             class="flex items-center justify-center gap-2 bg-blue-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-blue-700 transition"
         >
