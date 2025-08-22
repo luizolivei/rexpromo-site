@@ -33,15 +33,15 @@ useHead({
 
       <div class="grid grid-cols-1 gap-5 max-w-lg mx-auto mb-5">
         <a
-            href="https://chat.whatsapp.com/BCgevzsOhG3CIssEY4ghMi"
+            href="https://chat.whatsapp.com/BCgevzsOhG3CIssEY4ghMi?mode=ems_copy_t"
             target="_blank"
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Promos variadas (sem hardware)
+          INDICADO: Promos variadas (sem hardware)
         </a>
         <a
-            href="https://chat.whatsapp.com/KEPtbdrG7Ju9rsCq8clCHL"
+            href="https://chat.whatsapp.com/KEPtbdrG7Ju9rsCq8clCHL?mode=ems_copy_t"
             target="_blank"
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
@@ -49,7 +49,7 @@ useHead({
           Hardware
         </a>
         <a
-            href="https://chat.whatsapp.com/G1yCSVkkXKK9v0oPZAa0Eq"
+            href="https://chat.whatsapp.com/G1yCSVkkXKK9v0oPZAa0Eq?mode=ems_copy_t"
             target="_blank"
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
@@ -57,7 +57,7 @@ useHead({
           Eletrodomésticos
         </a>
         <a
-            href="https://chat.whatsapp.com/HeiK8zzPxKNBy7plmREm9K"
+            href="https://chat.whatsapp.com/HeiK8zzPxKNBy7plmREm9K?mode=ems_copy_t"
             target="_blank"
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
@@ -65,7 +65,7 @@ useHead({
           Celulares e Tablets
         </a>
         <a
-            href="https://chat.whatsapp.com/Kc009AGCqj73jG2dRG1AWT"
+            href="https://chat.whatsapp.com/Kc009AGCqj73jG2dRG1AWT?mode=ems_copy_t"
             target="_blank"
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
@@ -73,7 +73,7 @@ useHead({
           Consoles
         </a>
         <a
-            href="https://chat.whatsapp.com/BruGdLcui2z6YeBhki6og9"
+            href="https://chat.whatsapp.com/BruGdLcui2z6YeBhki6og9?mode=ems_copy_t"
             target="_blank"
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
