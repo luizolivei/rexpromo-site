@@ -38,7 +38,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          INDICADO: Promos variadas (sem hardware)
+          Promos variadas (sem hardware)
         </a>
         <a
             href="https://chat.whatsapp.com/KEPtbdrG7Ju9rsCq8clCHL?mode=ems_copy_t"
