@@ -38,7 +38,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Promos variadas (sem hardware)
+          Promoções diversas
         </a>
         <a
             href="https://chat.whatsapp.com/KEPtbdrG7Ju9rsCq8clCHL?mode=ems_copy_t"
@@ -46,7 +46,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Hardware
+          Hardware, Gamer
         </a>
         <a
             href="https://chat.whatsapp.com/G1yCSVkkXKK9v0oPZAa0Eq?mode=ems_copy_t"
@@ -62,7 +62,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Celulares e Tablets
+          Celulares, Tablets, Relógios
         </a>
         <a
             href="https://chat.whatsapp.com/Kc009AGCqj73jG2dRG1AWT?mode=ems_copy_t"
@@ -70,7 +70,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Consoles
+          Video games, consoles
         </a>
         <a
             href="https://chat.whatsapp.com/BruGdLcui2z6YeBhki6og9?mode=ems_copy_t"
