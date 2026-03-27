@@ -27,7 +27,7 @@ useHead({
           Bem-vindo ao RexPromo
         </h1>
         <h2 class="text-xl font-medium mb-6">
-          O <strong>melhor grupo de promoções</strong> para economizar de verdade 💸
+          Escolha em qual tipo de grupo você quer entrar:
         </h2>
       </div>
 
@@ -38,7 +38,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Promoções diversas
+          Grupo de Promoções diversas
         </a>
         <a
             href="https://chat.whatsapp.com/KEPtbdrG7Ju9rsCq8clCHL?mode=ems_copy_t"
@@ -46,7 +46,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Hardware, Gamer
+          Grupo de Hardware, Gamer
         </a>
         <a
             href="https://chat.whatsapp.com/G1yCSVkkXKK9v0oPZAa0Eq?mode=ems_copy_t"
@@ -54,7 +54,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Eletrodomésticos
+          Grupo de Eletrodomésticos
         </a>
         <a
             href="https://chat.whatsapp.com/HeiK8zzPxKNBy7plmREm9K?mode=ems_copy_t"
@@ -62,7 +62,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Celulares, Tablets, Relógios
+          Grupo de Celulares, Tablets, Relógios
         </a>
         <a
             href="https://chat.whatsapp.com/Kc009AGCqj73jG2dRG1AWT?mode=ems_copy_t"
@@ -70,7 +70,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Video games, consoles
+          Grupo de Video games, consoles
         </a>
         <a
             href="https://chat.whatsapp.com/BruGdLcui2z6YeBhki6og9?mode=ems_copy_t"
@@ -78,7 +78,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-green-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-green-700 transition"
         >
           <Icon icon="logos:whatsapp-icon" width="23" />
-          Promoções Épicas (bugs e promoções especiais)
+          Grupo de Promoções Épicas (bugs e promoções especiais)
         </a>
         <a
             href="https://t.me/rexpromocoes"
@@ -86,7 +86,7 @@ useHead({
             class="flex items-center justify-center gap-2 bg-blue-600 text-white px-3 py-3 rounded-lg lg:text-lg sm:text-sm font-semibold hover:bg-blue-700 transition"
         >
           <Icon icon="logos:telegram" width="23" />
-          Telegram
+          Grupo do Telegram com todas as ofertas
         </a>
       </div>
 
